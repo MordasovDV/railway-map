@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Карабула - Ангара</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Folder>
+        <name>Обследование 09.2021</name>
+        <open>1</open>
+        <Style>
+          <ListStyle>
+            <listItemType>check</listItemType>
+            <bgColor>00ffffff</bgColor>
+          </ListStyle>
+        </Style>
+        <Folder>
+          <name>Метки из поля</name>
+          <open>1</open>
+          <Style>
+            <ListStyle>
+              <listItemType>check</listItemType>
+              <bgColor>00ffffff</bgColor>
+            </ListStyle>
+          </Style>
+          <Placemark>
+            <name>М58. Критичная осадка пути 1</name>
+            <description>23.09.2021 14:55:10</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3154722222222,58.1011944444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М62. Упор</name>
+            <description>28.09.2021 11:26:47</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.316,58.0849444444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М61. Критичная осадка пути 4</name>
+            <description>АКП4</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3158611111111,58.0854444444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М60. Критичная осадка пути 3</name>
+            <description>28.09.2021 11:52:06</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.31575,58.0865833333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М59. Критичная осадка пути 2</name>
+            <description>28.09.2021 12:03:04</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3156944444444,58.0886388888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М57. Размыв бермы</name>
+            <description>28.09.2021 14:50:31</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3153611111111,58.1094444444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М37. Конец участка просадок пути</name>
+            <description>30.09.2021 11:19:25</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2494166666667,58.1928333333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М36. Участок деформаций пути</name>
+            <description>30.09.2021 11:20:29</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2486388888889,58.1951111111111,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М35. Граница укладки п/о 2</name>
+            <description>30.09.2021 14:38:24</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2463611111111,58.2018611111111,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М34. Граница укладки 2 п/о пути</name>
+            <description>30.09.2021 14:39:32</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2444722222222,58.2076944444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М48. Размыв отк.выемки, загр.балласт</name>
+            <description>11.10.2021 14:51:42</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2707222222222,58.1638888888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М63. МГТ 2.0. Притрассовая а.д.</name>
+            <description>18.10.2021 18:23:23</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.11575,58.3219722222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М1. Берма 6м</name>
+            <description>18.10.2021 18:25:00</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1147222222222,58.3195277777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М63. МГТ 1,0 м. Притрассовая а.д.</name>
+            <description>18.10.2021 18:33:09</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1203611111111,58.3055833333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М2. МГТ 1,0 м. Притрассовая а.д.</name>
+            <description>18.10.2021 18:34:29</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1343055555556,58.2940277777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М3. Начало(конец) устройства опор ЛЭП</name>
+            <description>18.10.2021 18:35:34</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1486666666667,58.2846944444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М4. Отсутствует обочина слева по х.п.</name>
+            <description>18.10.2021 18:37:46</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1555833333333,58.2806388888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М5. Граница укрепления откоса выемки</name>
+            <description>18.10.2021 18:39:39</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1586388888889,58.2768055555556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М6. Эрозия откоса. Вынос грунта, формирование оплыва откоса</name>
+            <description>18.10.2021 18:41:29</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1664166666667,58.2668055555556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М7. Граница укрепления посевом трав</name>
+            <description>19.10.2021 13:50:58</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1719444444444,58.2559722222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М8. Отсутствует обочина слева по х.п.</name>
+            <description>19.10.2021 14:00:08</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1821388888889,58.254,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М9. МГТ 1,5 притрассовая а.д.</name>
+            <description>19.10.2021 14:01:21</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1877777777778,58.25225,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М10. Отсутствует обочина слева по х.п.</name>
+            <description>19.10.2021 14:02:44</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1899166666667,58.2506111111111,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М11. Справа по х.п. размыв откоса выемки</name>
+            <description>19.10.2021 14:04:21</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1898611111111,58.2488888888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М12. МГТ 1,0 м притрассовая а.д.</name>
+            <description>19.10.2021 14:24:05</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.18875,58.2465277777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М13. Конец быстротока справа</name>
+            <description>19.10.2021 14:25:46</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1898055555556,58.2450555555556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М14. Отсутствует обочина слева по х.п.</name>
+            <description>19.10.2021 14:27:01</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1901111111111,58.2445,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М14. 278/279км</name>
+            <description>19.10.2021 14:28:24</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1905,58.244,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М15. МГТ 1,0 притрассовая а.д.</name>
+            <description>19.10.2021 14:33:13</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1901666666667,58.2436388888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М16. Заужено плечо балластной призмы слева по х.п.</name>
+            <description>19.10.2021 14:34:17</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1908055555556,58.2435833333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М17. Не засыпана балластные ящики, путь не подбит</name>
+            <description>19.10.2021 14:41:19</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1918055555556,58.2427222222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М18. ОТсутствует обочина справа по х.п.</name>
+            <description>19.10.2021 14:42:21</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1929166666667,58.2419722222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М19. Размыв откоса выемки справа по х.п.</name>
+            <description>19.10.2021 14:43:15</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1931388888889,58.2418611111111,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М20. Размыв откоса выемки справа по х.п.</name>
+            <description>19.10.2021 14:56:04</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1960277777778,58.2406388888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М21. МГТ 1,0 м. Притрассовая а.д.</name>
+            <description>19.10.2021 15:11:42</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2100833333333,58.2386666666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М22. Кабель СЦБ, связь</name>
+            <description>19.10.2021 15:12:47</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2172777777778,58.2366666666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М23. МГТ1,5х2,0 Притрассовая а.д.</name>
+            <description>19.10.2021 15:14:23</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2183611111111,58.23525,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М24. Отсутствует обочина з.п. слева по х.п.</name>
+            <description>19.10.2021 15:15:59</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.22025,58.2330555555556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М25. Кабели СЦБ, связь</name>
+            <description>19.10.2021 15:18:26</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2240833333333,58.2263333333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М26. Начало забол.участка. Заужена обочина слева. Деформации ВЛ</name>
+            <description>19.10.2021 15:35:10</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2333333333333,58.2219166666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М27. МГТ 1 м Притрассовая а.д.</name>
+            <description>19.10.2021 16:53:18</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2408611111111,58.2145277777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М28. Входной сигнал Шингачеть. Шкаф устройств СЦБ</name>
+            <description>19.10.2021 16:56:49</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2423888888889,58.2133055555556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М29. Питание светофора</name>
+            <description>19.10.2021 17:00:14</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2426666666667,58.213,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М30. МГТ 1,5 Притрассовая а.д.</name>
+            <description>19.10.2021 17:08:50</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2427222222222,58.2115,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>М31. Упор</name>
+            <description>19.10.2021 17:12:43</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2436944444444,58.2108611111111,0 </coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

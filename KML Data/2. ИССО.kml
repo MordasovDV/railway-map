@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Карабула - Ангара</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Folder>
+        <name>Обследование 09.2021</name>
+        <open>1</open>
+        <Style>
+          <ListStyle>
+            <listItemType>check</listItemType>
+            <bgColor>00ffffff</bgColor>
+          </ListStyle>
+        </Style>
+        <Folder>
+          <name>ИССО Все (ПК отл от фактических!)</name>
+          <open>1</open>
+          <Style>
+            <ListStyle>
+              <listItemType>check</listItemType>
+              <bgColor>00ffffff</bgColor>
+            </ListStyle>
+          </Style>
+          <Placemark>
+            <name>ЖБ дл.57,16 ПК1727+43</name>
+            <description>13.09.2021 14:51:02</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3170341388889,58.0829963055556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ЖБМ дл.24.08 ПК1736+29</name>
+            <description>13.09.2021 14:51:53</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3157416111111,58.0903334166667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ ПК1753+41 дл.101,46</name>
+            <description>13.09.2021 14:53:36</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3154760833333,58.1056919444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1765+00</name>
+            <description>13.09.2021 14:54:44</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3152520833333,58.1160957777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.2,0 ПК1774+15</name>
+            <description>13.09.2021 14:55:33</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3150054444444,58.12431025,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1784+35</name>
+            <description>13.09.2021 14:56:21</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3125079722222,58.1333051666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.35.96 ПК1791+09</name>
+            <description>13.09.2021 14:57:36</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3136433888889,58.1393255,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.68,46 ПК1794+74</name>
+            <description>13.09.2021 14:58:17</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3121264444444,58.1424246944444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1806+77</name>
+            <description>13.09.2021 14:59:05</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.3008475833333,58.1514786111111,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.39.88 ПК1812+50</name>
+            <description>13.09.2021 15:01:28</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2951551666667,58.1556534166667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ЖБМ дл.24.08 ПК1817+20</name>
+            <description>13.09.2021 15:02:03</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2886456111111,58.15804025,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1822+42</name>
+            <description>13.09.2021 15:02:39</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2808424166667,58.1602580277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1834+63</name>
+            <description>13.09.2021 15:03:44</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.266013,58.1675563888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1840+14</name>
+            <description>13.09.2021 15:24:00</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2614526666667,58.17188,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.1,5 ПК1844+41</name>
+            <description>13.09.2021 15:24:31</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2597358888889,58.1756030833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.46.56 ПК1848+45</name>
+            <description>13.09.2021 15:25:43</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2593021666667,58.1792163333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.64.30 ПК1853+61</name>
+            <description>13.09.2021 15:27:06</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2558105555556,58.1834681388889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.64.38 ПК1867+93</name>
+            <description>13.09.2021 15:28:01</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2484989444444,58.1955554722222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.1,5 ПК1883+26</name>
+            <description>13.09.2021 15:30:49</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2440393055556,58.2091184166667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1886+01</name>
+            <description>13.09.2021 15:31:11</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2432386388889,58.2115349722222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1889+68</name>
+            <description>13.09.2021 15:31:34</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2412421388889,58.2146293055556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.64.30 ПК1894+98</name>
+            <description>13.09.2021 15:32:15</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2368317777778,58.2188052222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1907+46</name>
+            <description>13.09.2021 15:35:25</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2230306111111,58.2271015,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.35.96 ПК1917+07</name>
+            <description>13.09.2021 15:38:35</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2187805833333,58.2354468333333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1923+65</name>
+            <description>13.09.2021 15:39:05</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2104340555556,58.2389955833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1927+55</name>
+            <description>13.09.2021 15:39:25</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.2038429444444,58.2394465277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1940+39</name>
+            <description>13.09.2021 15:40:23</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1892651944444,58.2465631666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПБТ отв. 2,0 ПК1947+01</name>
+            <description>13.09.2021 15:40:52</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1883858611111,58.2522841944444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.115.26 ПК1955+94</name>
+            <description>13.09.2021 15:41:19</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1745758333333,58.2555485,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1963+61</name>
+            <description>13.09.2021 15:41:54</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1674941111111,58.2605317777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.1,5 ПК1978+68</name>
+            <description>13.09.2021 15:42:29</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.16086675,58.2732413888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.2,0 ПК1984+76</name>
+            <description>13.09.2021 15:43:10</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1574508888889,58.2784267777778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.1,5 ПК1988+02</name>
+            <description>13.09.2021 15:43:52</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1550309444444,58.2809914444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1992+80</name>
+            <description>13.09.2021 15:44:32</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1496401666667,58.2841909444444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК1994+93</name>
+            <description>13.09.2021 15:44:59</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1467038611111,58.2852385277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 2,0 ПК1996+85</name>
+            <description>13.09.2021 15:45:33</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1437525833333,58.2860623888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2000+19</name>
+            <description>13.09.2021 15:46:06</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1388404722222,58.2875085833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2005+59</name>
+            <description>13.09.2021 15:46:29</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1342388611111,58.2914080833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПБТ отв.3,0 ПК2011+40</name>
+            <description>13.09.2021 15:47:05</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1342598055556,58.29640475,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК2017+21</name>
+            <description>13.09.2021 15:47:36</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1266415277778,58.2996376111111,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв. 1,5 ПК2023+75</name>
+            <description>13.09.2021 15:48:02</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1208334722222,58.3044833888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2030+78</name>
+            <description>13.09.2021 15:48:28</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1202270277778,58.3107821944444,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2035+56</name>
+            <description>13.09.2021 15:48:47</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1179217222222,58.3148838055556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ММ дл.94,06 ПК2051+49</name>
+            <description>13.09.2021 15:49:52</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1149413888889,58.3287701666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2043+91</name>
+            <description>13.09.2021 15:50:17</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1164318888889,58.3220503888889,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2037+97</name>
+            <description>13.09.2021 15:51:33</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1164195277778,58.3168863055556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.1,5 ПК2059+81</name>
+            <description>13.09.2021 15:52:29</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1202385833333,58.3351710277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ЖБМ дл.57.36 ПК2066+15</name>
+            <description>13.09.2021 15:53:06</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1259499722222,58.3396040833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ЖБМ дл.57.36 ПК2068+95</name>
+            <description>13.09.2021 15:53:31</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1245282222222,58.3420173055556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2073+22</name>
+            <description>13.09.2021 15:54:10</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.11949625,58.3442782222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ отв.1,5 ПК2075+61</name>
+            <description>13.09.2021 15:54:28</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1154055833333,58.3452587222222,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2083+90</name>
+            <description>13.09.2021 15:55:48</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.1016370555556,58.3462490833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2086+06</name>
+            <description>13.09.2021 15:56:10</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0981556388889,58.3471355555556,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2088+20</name>
+            <description>13.09.2021 15:56:28</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0949019444444,58.3479820277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2092+78</name>
+            <description>13.09.2021 15:56:43</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0874547222222,58.3491740277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2097+51</name>
+            <description>13.09.2021 15:57:41</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0799789444444,58.35075775,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2100+88</name>
+            <description>13.09.2021 15:57:58</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.07478275,58.3519686666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 1,5 ПК2102+54</name>
+            <description>13.09.2021 15:58:24</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0719513055556,58.3521915833333,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2117+20</name>
+            <description>13.09.2021 15:58:56</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0474466666667,58.3547751666667,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2127+04</name>
+            <description>13.09.2021 15:59:22</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0482653888889,58.3615435277778,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2145+80</name>
+            <description>13.09.2021 16:00:15</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0779666111111,58.3658645,0 </coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ПЖБТ 2,0 ПК2153+20</name>
+            <description>13.09.2021 16:00:35</description>
+            <Style>
+              <LabelStyle>
+                <color>A600FFFF</color>
+                <scale>1.27272727272727</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.5</scale>
+                <Icon>
+                  <href>files/1.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>97.0894978333333,58.3684629166667,0 </coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
